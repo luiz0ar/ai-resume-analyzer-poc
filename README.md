@@ -96,7 +96,7 @@ This is a **Clean Room Implementation** portfolio project demonstrating best pra
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/luiz0ar/ai-resume-analyzer.git
+   git clone https://github.com/luiz0ar/ai-resume-analyzer-poc.git
    cd ai-resume-analyzer
    ```
 
